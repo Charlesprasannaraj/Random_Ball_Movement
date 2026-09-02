@@ -1,0 +1,12 @@
+#area {
+    position: absolute;
+    margin: 5em auto;
+    background-color: #988cf0;
+}
+
+.ball {
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    display:inline-block
+}
